@@ -1,5 +1,6 @@
 # MenuAcessosProUI
 
+
 Aplicativo macOS (SwiftUI) para organizar e abrir acessos de **Clientes** e seus endpoints de **SSH**, **RDP** e **URLs HTTPS** (ex.: firewall, VMware), com armazenamento local em CSV e interface em tema escuro (tons de azul/preto).
 
 ---
